@@ -1,0 +1,235 @@
+.line{
+    height:150px;
+    width: 1px;
+    background-color: white;
+}
+.cover{
+    background-image:url(cover_school.jpg);
+    background-size: cover;
+    height:300px ;
+}
+.aa{
+    font-weight: 400;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.bb{
+    color: orange;
+    float: left;
+    margin-left: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+.cc{
+    font-weight: 400; 
+    font-family: sans-serif;
+}
+.dd{
+    background-color: #ffb327;
+    width: 100%;
+    height: 300px;
+    float: left;
+    
+}
+.ee{
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    float: left;
+    margin-top:;
+}
+.ff{
+    height: 200px;
+    width: 300px;
+}
+.gg{
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+    float: left;
+}
+.hh{
+     height:150px;
+    width: 1px;
+    background-color: white;
+    float: left;
+}
+.ii{
+    height: 250px;
+    width:250px;
+   font-family: sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+    float: left;
+    margin-top: 15px;
+}
+.jj{
+    height: 150px;
+    width:230px;
+   font-family: sans-serif;
+    font-weight: 100;
+    font-size: 13px;
+    margin-top: 15px;
+}
+.nn{
+    height: 250px;
+    width: 300px;
+}
+.yy{
+    height: 1px;
+    width: 300px;
+    background-color: white;
+}
+.zz{
+    margin-left: 12px;
+    padding-top: 5px;
+}
+.pp{
+    margin-top: 50px;
+}
+.ss{
+    width: 300px;
+    margin-top: 30px;
+    background-color: black;
+    height: 1px;
+}
+.tt{
+    margin-top: 30px;
+}
+.zzz{
+    background-image: url(background2.jpg);
+    background-size: cover;
+    height: 500px;
+}
+.ccc{
+    width:40%;
+    height: 350px;
+    margin-top: 40px;
+    margin-left: 30%;
+}
+.cc1{
+    margin-top: 20px;
+    margin-left: 23px;
+    height: 40px;
+    border-radius: 5px;
+}
+.cc2{
+    margin-top: 20px;
+    margin-left: 5px;
+    height: 40px;
+    border-radius: 5px;
+}
+.cc3{
+    margin-top: 20px;
+    margin-left: 150px;
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+}
+.cc4{
+    margin-left: 280px;
+}
+
+
+
+
+
+.a1{
+    width: 100%;
+    height: 2000px;
+    background-image: url(diamond_background.jpg);
+    background-size: cover;
+    margin-top: 10px;
+}
+.b1{
+    text-align: center;
+    background-color: black;
+}
+.b2{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+.c1{
+    text-align: center;
+    background-color: aqua;
+}
+.d1{
+    background-color:ghostwhite;
+}
+.e1{
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    margin-top: 10px;
+    text-align-last:center;
+}
+.f1{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 500;
+    height: 45px;
+}
+.g1{
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    text-align-last:center;
+}
+.g2{
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    text-align-last:center;
+}
+.i1{
+    width: 860px;
+    height: 53px;
+    border-radius: 5px;
+    text-align-last:center;
+    margin-top: 10px;
+}
+.j1{
+    width: 860px;
+    height: 35px;
+    border-radius: 5px;
+    margin-top: 10px;
+    text-align-last:center;
+}
+.k1{
+    text-align: center;
+}
+.k2{
+    background-color: white;
+    border-radius: 2px;
+    margin-top: 5px;
+}
+.l1{
+    margin-top: 10px;
+    margin-left: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
